@@ -29,6 +29,12 @@ This project heavily utilizes core OOP principles:
 - **Encapsulation:** All class attributes are private with public getters/setters, and validation logic is hidden within the classes.
 - **Design Patterns:** Utilizes the **Singleton** pattern for the `University` class to manage the central state.
 
+## System Architecture (UML)
+
+Below is the UML Class Diagram showing the relationships between the core classes, inheritance hierarchies, and interfaces.
+
+![UML Diagram](UML%20Diagram.png)
+
 ## Getting Started
 
 ### Prerequisites
